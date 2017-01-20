@@ -3,13 +3,13 @@ The WebApp works on AngularJs. This is the first project in series to learn the 
 
 What did I learn?
 
-Basics of AngularJS
-Contollers
-$scope
-$http
-angular-routing
-ng-view
-fetching data from JSON file.
+1. Basics of AngularJS
+2. Contollers
+3. $scope
+4. $http
+5. angular-routing
+6. ng-view
+7. fetching data from JSON file.
 
 Thanks!
 --Shubham Pandey
